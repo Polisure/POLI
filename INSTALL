@@ -1,0 +1,9 @@
+Building POLI
+
+See doc/readme-qt.rst for instructions on building POLI QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of POLI.
+
+See doc/build-*.txt for instructions on building POLId,
+the intended-for-services, no-graphical-interface, reference
+implementation of POLI.
